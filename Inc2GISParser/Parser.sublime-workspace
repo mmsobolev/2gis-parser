@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"opti",
+				"option4"
+			],
+			[
+				"foo",
+				"footer-textarea"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"in",
+				"incl\tinclude …"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: encod",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"local",
+				"LocalizedMenu: Русский (ru)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Advanced ",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/1cManager/hook/yml.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/yml/cdek.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/yml/aliexpress.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/1cManager/sklad/20-08-2020-15-42/upload_0.csv",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/modules/oneclick/templates/oneclick_forma.tpl",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/modules/oneclick/inc/config.ini",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/modules/oneclick/hook/oneclickall.hook.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/modules/oneclick/hook/oneclick.hook.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/modules/oneclick/admpanel/admin_oneclick.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/modules/oneclick/core/oneclick.core.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/modules/oneclick/templates/oneclick_window_forma.tpl",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/forms/cart/forma.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/forms/receipt/forma.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/java/jqfunc.js",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/templates/staroil2/modules/oneclick/templates/oneclick_forma.tpl",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/templates/staroil2/modules/oneclick/templates/oneclick_window_forma.tpl",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/templates/staroil2/forma/page_forma_list.tpl",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/templates/staroil2/style.css",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/1cManager/sklad/08-08-2020-11-14/upload_0.csv",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/yml/yandex2.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/base-xml-manager/catalog/catalog.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/base-xml-manager/1c/xml.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/inc/elements.inc.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/inc/shopelements.inc.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/inc/config.ini",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/yml/.htaccess",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/1/0/star-oil.ru/star-oil.ru.error.log",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/1/0/staroil.beget.tech/staroil.beget.tech.access.log",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/1/0/star-oil.ru/star-oil.ru.error.log.20200725",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/1/0/star-oil.ru/star-oil.ru.error.log.20200726",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/1/0/star-oil.ru/public_html/PHP_errors.log",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/1/0/staroil.beget.tech/staroil.beget.tech.error.log",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/star-oil.ru.error.log.20200723",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/base-xml-manager/1c/monitor.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/staroil.beget.tech/staroil.beget.tech.access.log",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/.local/share/mc/history",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/1/0/star-oil.ru/public_html/pageHTML/test.html",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/templates/staroil2/star-oil.ru/public_html/phpshop/templates/staroil2/main/shop.tpl",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/templates/staroil2/star-oil.ru/public_html/phpshop/templates/staroil2/main/index.tpl",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/templates/staroil2/ftpsync.settings",
+		"/C/Users/mmsob/AppData/Roaming/Sublime Text 3/Packages/User/FTPSync.sublime-settings",
+		"/C/Users/mmsob/AppData/Roaming/Sublime Text 3/Packages/FTPSync/FTPSync.sublime-settings",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/templates/staroil/main/shop.tpl",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/templates/staroil2/main/shop.tpl",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/templates/staroil/main/index.tpl",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/templates/staroil2/main/index.tpl",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/templates/staroil2/main/index1.tpl",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/templates/staroil2/php/inc/config.ini",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/templates/staroil2/php/hook/phpshopshop.hook.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/templates/staroil2/php/hook/footer.hook.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/templates/staroil2/main/index.html",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/templates/staroil2/page/index.html",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/templates/staroil2/php/inc/autoload.inc.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/phpshop/templates/staroil2/php/element/index.inc.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/viggy.ru/public_html/config.local.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/viggy.ru/public_html/.htaccess",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/viggy.ru/public_html/config.php",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/yml/_yandex.php",
+		"/C/Users/mmsob/AppData/Roaming/Sublime Text 3/Packages/Base Encoder/BaseEncoder.sublime-settings",
+		"/C/Users/mmsob/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/mmsob/AppData/Roaming/Sublime Text 3/Packages/Base Encoder/Default (Windows).sublime-keymap",
+		"/C/Users/mmsob/AppData/Local/Temp/_tcx/0/0/star-oil.ru/public_html/yml/shops.dtd"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Parser.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
